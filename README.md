@@ -1,2 +1,2 @@
 # tutorial
-test by makise0716
+test for Git and Github by makise0716
